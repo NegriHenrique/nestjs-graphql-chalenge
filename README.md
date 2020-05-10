@@ -1,5 +1,7 @@
 ## Code Challenge - Mural de mensagens
 
+![arch](https://img.shields.io/badge/arch-GraphQL-%23ff69b4) ![techs](https://img.shields.io/badge/techs-ReactJS%2C%20Nest.JS-green)
+
 ## Requisitos funcionais
 
 - [x] O usuário precisa se cadastrar apenas usando o e-mail
